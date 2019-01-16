@@ -1,0 +1,2 @@
+# fictional-computing-machine
+TUTORIAL PARA INSTALAR RASPBIAN EN RASPBERRY
